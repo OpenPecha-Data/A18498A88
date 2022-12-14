@@ -1,0 +1,22 @@
+id: A18498A88
+title: Toh_431-The_Tantra_of_Candamaharosana-v1
+type: translation
+pechas:
+- I55A4584A
+- IC6E18D1F
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-04-20T20:53:06.315Z'
+  creationid: celso
+  eft-text-id: UT22084-080-015
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_431-The_Tantra_of_Candamaharosana-v1
+alignment_to_base:
+  I55A4584A/DDFC: CDD1
+  IC6E18D1F/1AA6: CDD1
